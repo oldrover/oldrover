@@ -1,6 +1,6 @@
 <h1>:wave: Hi! I'm Markus </h1>
 
-<h3>Fullstack Developer & Data Engineer</h3>
+<h3>Java/Javascript Fullstack Developer & Data Engineer</h3>
 
 <h2> 🔧 Tools & Technologies i use ...</h2>
 
@@ -22,7 +22,6 @@
 
 <h2> 🌱 I’m currently learning ... </h2>
 
-![](https://img.shields.io/badge/Udacity-DataEngineer-informational?style=flat&logo=udacity&logoColor=white&color=59b4e4)
 ![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=white&color=dd2630)
 ![](https://img.shields.io/badge/Code-Flutter-informational?style=flat&logo=flutter&logoColor=white&color=2f569b)
 

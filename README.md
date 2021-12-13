@@ -20,10 +20,11 @@
 ![](https://img.shields.io/badge/Tool-Postman-informational?style=flat&logo=postman&logoColor=white&color=FF6C37)
 ![](https://img.shields.io/badge/Cloud-Azure-informational?style=flat&logo=microsoft%20azure&logoColor=white&color=0089D6)
 
-<h2> 🌱 I’m currently learning ... </h2>
+<h2> 🌱 I’m currently working on ... </h2>
 
-![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=white&color=dd2630)
-![](https://img.shields.io/badge/Code-Flutter-informational?style=flat&logo=flutter&logoColor=white&color=2f569b)
+### [SnakePlanner App](https://github.com/oldrover/snakeplanner)
+![image](https://raw.githubusercontent.com/oldrover/snakeplanner/master/images/app.png)
+
 
 <h2>📊 GitHub Stats ...</h2>
 
